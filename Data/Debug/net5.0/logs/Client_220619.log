@@ -1,0 +1,49 @@
+6/19/2022 1:37:59 AM - AddCustomer: OnFileSelected
+Microsoft.JSInterop.JSException: There is no file with ID 2. The file list may have changed.
+Error: There is no file with ID 2. The file list may have changed.
+    at a (http://localhost/_framework/blazor.server.js:8:84821)
+    at s (http://localhost/_framework/blazor.server.js:8:84929)
+    at Object.<anonymous> (http://localhost/_framework/blazor.server.js:8:86868)
+    at http://localhost/_framework/blazor.server.js:8:84588
+    at Object.next (http://localhost/_framework/blazor.server.js:8:84693)
+    at http://localhost/_framework/blazor.server.js:8:83605
+    at new Promise (<anonymous>)
+    at r (http://localhost/_framework/blazor.server.js:8:83350)
+    at Object.readFileData (http://localhost/_framework/blazor.server.js:8:86770)
+    at http://localhost/_framework/blazor.server.js:1:70369
+   at Microsoft.AspNetCore.Components.Forms.RemoteBrowserFileStream.FillBuffer(PipeWriter writer, CancellationToken cancellationToken)
+   at System.IO.Pipelines.PipeCompletion.ThrowLatchedException()
+   at System.IO.Pipelines.Pipe.GetReadResult(ReadResult& result)
+   at System.IO.Pipelines.Pipe.GetReadAsyncResult()
+   at Microsoft.AspNetCore.Components.Forms.RemoteBrowserFileStream.CopyFileDataIntoBuffer(Int64 sourceOffset, Memory`1 destination, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Components.Forms.BrowserFileStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at Blazorpdds.Pages.ScanDisease.OnFileSelected(InputFileChangeEventArgs e, AnalyzeModel dmodel) in D:\Personal\Refer\Ganesh\CIT\VTU\Projects\BlazorDapperSPA\BlazorDapperSPA\Pages\ScanDisease.razor:line 213
+
+
+6/19/2022 1:39:50 AM - AddCustomer: OnFileSelected
+Microsoft.JSInterop.JSException: Cannot read properties of null (reading '_blazorFilesById')
+TypeError: Cannot read properties of null (reading '_blazorFilesById')
+    at a (http://localhost/_framework/blazor.server.js:8:84789)
+    at s (http://localhost/_framework/blazor.server.js:8:84929)
+    at Object.<anonymous> (http://localhost/_framework/blazor.server.js:8:86868)
+    at http://localhost/_framework/blazor.server.js:8:84588
+    at Object.next (http://localhost/_framework/blazor.server.js:8:84693)
+    at http://localhost/_framework/blazor.server.js:8:83605
+    at new Promise (<anonymous>)
+    at r (http://localhost/_framework/blazor.server.js:8:83350)
+    at Object.readFileData (http://localhost/_framework/blazor.server.js:8:86770)
+    at http://localhost/_framework/blazor.server.js:1:70369
+   at Microsoft.AspNetCore.Components.Forms.RemoteBrowserFileStream.FillBuffer(PipeWriter writer, CancellationToken cancellationToken)
+   at System.IO.Pipelines.PipeCompletion.ThrowLatchedException()
+   at System.IO.Pipelines.Pipe.GetReadResult(ReadResult& result)
+   at System.IO.Pipelines.Pipe.GetReadAsyncResult()
+   at Microsoft.AspNetCore.Components.Forms.RemoteBrowserFileStream.CopyFileDataIntoBuffer(Int64 sourceOffset, Memory`1 destination, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Components.Forms.BrowserFileStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at Blazorpdds.Pages.ScanDisease.OnFileSelected(InputFileChangeEventArgs e, AnalyzeModel dmodel) in D:\Personal\Refer\Ganesh\CIT\VTU\Projects\BlazorDapperSPA\BlazorDapperSPA\Pages\ScanDisease.razor:line 213
+
+
+6/19/2022 9:31:44 PM - Capture()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Blazorpdds.Pages.ScanDisease.Capture() in E:\Ganesh\Projects\PDDS\BlazorDapperSPA\BlazorDapperSPA\Pages\ScanDisease.razor:line 183
+
+

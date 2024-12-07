@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PDDS\\BlazorDapperSPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1CE914-28C8-4C80-89C2-76B89FFED5A9}|SentimentAnalysisWebAPI\\MLWeb\\MLWeb.csproj|e:\\pdds\\blazordapperspa\\sentimentanalysiswebapi\\mlweb\\mlmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{3F1CE914-28C8-4C80-89C2-76B89FFED5A9}|SentimentAnalysisWebAPI\\MLWeb\\MLWeb.csproj|solutionrelative:sentimentanalysiswebapi\\mlweb\\mlmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B673A8CF-98D6-4568-8211-86A17329D333}|BlazorDapperSPA\\Blazorpdds.csproj|e:\\pdds\\blazordapperspa\\blazordapperspa\\pages\\addplants.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B673A8CF-98D6-4568-8211-86A17329D333}|BlazorDapperSPA\\Blazorpdds.csproj|solutionrelative:blazordapperspa\\pages\\addplants.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B673A8CF-98D6-4568-8211-86A17329D333}|BlazorDapperSPA\\Blazorpdds.csproj|e:\\pdds\\blazordapperspa\\blazordapperspa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B673A8CF-98D6-4568-8211-86A17329D333}|BlazorDapperSPA\\Blazorpdds.csproj|solutionrelative:blazordapperspa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B673A8CF-98D6-4568-8211-86A17329D333}|BlazorDapperSPA\\Blazorpdds.csproj|e:\\pdds\\blazordapperspa\\blazordapperspa\\data\\pddsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B673A8CF-98D6-4568-8211-86A17329D333}|BlazorDapperSPA\\Blazorpdds.csproj|solutionrelative:blazordapperspa\\data\\pddsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MLModel.mbconfig",
+              "DocumentMoniker": "E:\\PDDS\\BlazorDapperSPA\\SentimentAnalysisWebAPI\\MLWeb\\MLModel.mbconfig",
+              "RelativeDocumentMoniker": "SentimentAnalysisWebAPI\\MLWeb\\MLModel.mbconfig",
+              "ToolTip": "E:\\PDDS\\BlazorDapperSPA\\SentimentAnalysisWebAPI\\MLWeb\\MLModel.mbconfig*",
+              "RelativeToolTip": "SentimentAnalysisWebAPI\\MLWeb\\MLModel.mbconfig*",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2024-12-02T15:11:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPlants.razor",
+              "DocumentMoniker": "E:\\PDDS\\BlazorDapperSPA\\BlazorDapperSPA\\Pages\\AddPlants.razor",
+              "RelativeDocumentMoniker": "BlazorDapperSPA\\Pages\\AddPlants.razor",
+              "ToolTip": "E:\\PDDS\\BlazorDapperSPA\\BlazorDapperSPA\\Pages\\AddPlants.razor",
+              "RelativeToolTip": "BlazorDapperSPA\\Pages\\AddPlants.razor",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvygAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:56:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pddsservice.cs",
+              "DocumentMoniker": "E:\\PDDS\\BlazorDapperSPA\\BlazorDapperSPA\\Data\\Pddsservice.cs",
+              "RelativeDocumentMoniker": "BlazorDapperSPA\\Data\\Pddsservice.cs",
+              "ToolTip": "E:\\PDDS\\BlazorDapperSPA\\BlazorDapperSPA\\Data\\Pddsservice.cs",
+              "RelativeToolTip": "BlazorDapperSPA\\Data\\Pddsservice.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAhwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:10:25.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PDDS\\BlazorDapperSPA\\BlazorDapperSPA\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorDapperSPA\\appsettings.json",
+              "ToolTip": "E:\\PDDS\\BlazorDapperSPA\\BlazorDapperSPA\\appsettings.json",
+              "RelativeToolTip": "BlazorDapperSPA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T17:03:19.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
